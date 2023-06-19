@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">142266402287-79koi0o9ku5mq1lmsl1gjpd54rvtlap9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">142266402287</string>
+    <string name="google_api_key" translatable="false">AIzaSyBibi0NUrGbfzEyZv0xzeiI90l0SS3jFOo</string>
+    <string name="google_app_id" translatable="false">1:142266402287:android:1e98de7cdc38a10cd5e21a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBibi0NUrGbfzEyZv0xzeiI90l0SS3jFOo</string>
+    <string name="google_storage_bucket" translatable="false">travelgram-7f2f3.appspot.com</string>
+    <string name="project_id" translatable="false">travelgram-7f2f3</string>
+</resources>
